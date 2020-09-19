@@ -1,2 +1,3 @@
 # Python-3-Week-1-Assigment
-Un codigo para el proyecto de Coursera
+No tomen ese curso. Es muy malo. Mejor compren un libro del tema.
+No enseña hahaha
